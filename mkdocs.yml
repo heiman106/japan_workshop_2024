@@ -1,0 +1,14 @@
+site_name: 2024 PRS workshop
+theme:
+  name: material
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.magiclink
+
+theme:
+  name: material
+
+extra_css:
+  - stylesheets/extra.css
