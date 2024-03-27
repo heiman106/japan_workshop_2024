@@ -46,7 +46,7 @@ At the end of the course, participants will be able to:
 ##Instructors and speakers
 ###**Scientific Organsing Committee**
 <div class="grid cards" markdown>
-- <figure markdown>![Yuki](img/Yuki2.jpg){width=60%}</figure>
+- <figure markdown>![Yuki](img/Yuki2.JPG){width=60%}</figure>
     <center> [Yukinori Okada](https://www.u-tokyo.ac.jp/focus/en/people/k0001_00120.html) </center>
     <center>The University of Tokyo</center>
 
