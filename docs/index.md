@@ -4,7 +4,7 @@
 
 The University of Tokyo, Japan
 
-<figure markdown>![dna](img/globe_uni2.png){width=70%}</figure>
+<figure markdown>![dna](img/globe_uni3.png){width=70%}</figure>
 **Hands-on training on the latest methods, software tools and applications for polygenic risk scores (PRS) analyses.**
 
 
