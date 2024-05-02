@@ -18,7 +18,7 @@ The course will begin with a brief overview of GWAS, an introduction to PRS anal
 
 ###**Target audience**
 
-Students and scientists based in Japan and (other Asian countries?) interested in the theory and/or application of polygenic risk scores, important for those undertaking research in: Bioinformatics, Genetic Epidemiology, Population Genetics, Statistical Genetics, Clinical Genetics, Quantitative Genetics.
+Students and scientists based inside or outside of Japan interested in the theory and/or application of polygenic risk scores, important for those undertaking research in: Bioinformatics, Genetic Epidemiology, Population Genetics, Statistical Genetics, Clinical Genetics, Quantitative Genetics.
 
 ##**Programme**
 The course will take place over 2 days and will include lectures, tutorials and computational practicals. There will be multiple opportunities to meet the training team in a 1:1 setting, and to interact with other attendees and the workshop team throughout the weekend, helping to foster a supportive, collegiate and interactive environment to maximise learning for all.
