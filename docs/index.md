@@ -75,27 +75,34 @@ At the end of the course, participants will be able to:
 </div>
 
 <div class="grid cards" markdown>
-- <figure markdown>![need update](img/unknow.png){width=50%}</figure>
-    <center> Minami </center>
+- <figure markdown>![Yoshihiko Tomofuji](img/tomofuji.png){width=60%}</figure>
+    <center> Yoshihiko Tomofuji </center>
     <center>The University of Tokyo </center>
 
 
-- <figure markdown>![need update](img/unknown.png){width=50%}</figure>
+- <figure markdown>![Shinichi NAMBA](img/namba2.png){width=55%}</figure>
     
-    <center>Snamba</center>
+    <center>Shinichi Namba</center>
     <center>The University of Tokyo </center>
 
-- <figure markdown>![need update](img/unknown.png){width=50%}</figure>
-    <center> Qsonehara</center>
+- <figure markdown>![Kyuto Sonehara](img/Sonehara.png){width=60%}</figure>
+    <center>Kyuto Sonehara</center>
     <center> The University of Tokyo  </center>
+
+
 </div>
 
 
 
-
-
 ##How to Apply
-Ask Yuki/Paul
+Please download, fill out the [Registration Form](img/JapanPRS2024_AppForm.docx){:JapanPRS2024_AppForm}, and email it to xxx@gmail.com. 
+If you have any questions or any problems with the application process, please [contact us](xxx@gmail.com).
+
+<br />
+<br />
+<br />
+
+
 
 
 
