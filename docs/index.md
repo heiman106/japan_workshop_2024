@@ -4,7 +4,7 @@
 
 The University of Tokyo, Japan
 <br></br><br>
-**Hands-on training on the latest methods, software tools and applications for polygenic risk scores (PRS) analyses.**
+**Hands-on training with lectures and computer practicals on the latest methods, software tools and applications for polygenic risk score (PRS) analyses**
 
 ### **Summary**
 
@@ -42,7 +42,7 @@ At the end of the course, participants will be able to:
 
 
 ##Instructors and speakers
-###**Scientific Organizing Committee**
+###**Scientific Organising Committee**
 <div class="grid cards" markdown>
 - <figure markdown>![Yuki](img/Yuki2.JPG){width=60%}</figure>
     <center> [Yukinori Okada](https://www.u-tokyo.ac.jp/focus/en/people/k0001_00120.html) </center>
@@ -64,10 +64,10 @@ At the end of the course, participants will be able to:
     <center>Icahn School of Medicine, USA </center>
 
 
-- <figure markdown>![Judit](img/judit.png){width=60%}</figure>
+- <figure markdown>![Tade](img/tade.png){width=60%}</figure>
     
-    <center>[Judit García-González](https://labs.icahn.mssm.edu/oreillylab/)</center>
-    <center>Icahn School of Medicine, USA </center>
+    <center>[Tade Souaiaia](https://www.downstate.edu/faculty/cell-biology/souaiaia.html)</center>
+    <center>Suny Downstate University, USA </center>
 
 - <figure markdown>![Beatrice](img/beatrice.png){width=60%}</figure>
     <center> [Beatrice Wu](https://labs.icahn.mssm.edu/oreillylab/)</center>
@@ -95,8 +95,8 @@ At the end of the course, participants will be able to:
 
 
 ##How to Apply
-Please download, and fill out the [Registration Form](img/JapanPRS2024_AppForm.docx){:JapanPRS2024_AppForm}, and then email it to xxx@gmail.com. 
-If you have any questions or any problems with the application process, please [contact us](xxx@gmail.com).
+Please download and fill out the [Registration Form](img/JapanPRS2024_AppForm.docx){:JapanPRS2024_AppForm}, and then email it to PRSworkshop2024@gmail.com. Note that registration fee is non-refundable.  
+If you have any questions or any problems with the application process, please [contact us](PRSworkshop2024@gmail.com).
 
 <br />
 <br />
