@@ -16,21 +16,21 @@ This short course will train scientists with computational tools and the latest 
 The course will begin with a brief overview of GWAS, an introduction to PRS analysis, advanced topics in PRS (e.g., pathway-based PRS, PRS*Environment interactions, PRS to identify rare variants). This will be followed by introducing and then investigating the critically important topic of the ‘PRS Portability Problem’, in which PRS are known to generalise less well between population of different ancestry. Workshop participants will learn how to address this using the latest PRS methods developed for application to diverse and admixed ancestry samples, including PRS-CSx and BridgePRS.
 
 
-###**Target audience**
+### **Target Audience**
 
 Students and scientists based inside or outside of Japan interested in the theory and/or application of polygenic risk scores, important for those undertaking research in: Bioinformatics, Genetic Epidemiology, Population Genetics, Statistical Genetics, Clinical Genetics, Quantitative Genetics.
 
-##**Programme**
+## **Programme**
 The course will take place over 2 days and will include lectures, tutorials and computational practicals. There will be multiple opportunities to meet the training team in a 1:1 setting, and to interact with other attendees and the workshop team throughout the weekend, helping to foster a supportive, collegiate and interactive environment to maximise learning for all.
 
-###Topics overview
+### **Topics Overview**
 
 * Overview of GWAS: GWAS basics and GWAS for PRS
 * Introduction to PRS: calculating PRS, running PRS software, interpreting PRS results
 * Advanced PRS topics: pathway-based PRS, PRS for G*E interaction, PRS to detect rare variants
 * PRS in diverse ancestries: the PRS Portability Problem, PRS methods for addressing portability problems, PRS for diverse and admixed population samples
 
-###**Learning outcomes**
+###**Learning Outcomes**
 At the end of the course, participants will be able to:
 
 * Discuss the application of GWAS and PRS methods to understand disease aetiology and the interplay between genetics and the environment
@@ -50,10 +50,10 @@ The course will take place at [FUKUTAKE Learning Theater](https://fukutake.iii.u
 
 * This is an **on-site** course. No virtual online platform will be provided for remote participation. 
 * Participants are required to bring their own laptop. 
-* Participants are responsible for arranging their own accommodations as the course office will not facilitate hotel arrangements.
+* Participants are responsible for arranging their own accommodation as the course office will not facilitate hotel arrangements.
 
-##Instructors and speakers
-###**Scientific Organising Committee**
+##**Scientific Organising Committee**
+###**Course Directors**
 <div class="grid cards" markdown>
 - <figure markdown>![Yuki](img/Yuki2.JPG){width=60%}</figure>
     <center> [Yukinori Okada](https://www.u-tokyo.ac.jp/focus/en/people/k0001_00120.html) </center>
@@ -136,7 +136,11 @@ Once received, the course office will provide you with the payment details for b
 
 ###**Deadline**
 
-The registration deadline is **July 31st, 2024**. As space at the venue is limited, registration will be closed once capacity is reached.
+The registration deadline is **July 31, 2024**. As space at the venue is limited, registration will be closed once capacity is reached, so to secure a place at the workshop then please apply as soon as possible.
+
+###**Contact**
+
+For any questions or issues about the course, please email us PRSworkshop2024@gmail.com. 
 
 
 <br />
