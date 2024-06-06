@@ -2,7 +2,7 @@
 <figure markdown>![dna](img/globe_uni5.png){width=70%}</figure>
 **2-Day Summer PRS Workshop: 31 August - 1 September 2024**
 
-The University of Tokyo, Japan
+FUKUTAKE Learning Theater, The University of Tokyo, Japan
 <br></br><br>
 **Hands-on training with lectures and computer practicals on the latest methods, software tools and applications for polygenic risk score (PRS) analyses**
 
@@ -40,6 +40,12 @@ At the end of the course, participants will be able to:
 * Evaluate and interpret results generated from PRS analyses
 * Customise visualisation of results from PRS analyses
 
+##**Venue**
+
+The course will take place at [FUKUTAKE Learning Theater](https://fukutake.iii.u-tokyo.ac.jp/english/facilities_inside-fukutake_learning_theater.html), at the [Hongo campus of the University of Tokyo, Tokyo, Japan](https://www.google.com/maps/place/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%B8/@35.7138194,139.7601623,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c2ffa206ea3:0x30e407498313ba95!8m2!3d35.7138151!4d139.7627372!16zL20vMDE3bHZk?entry=ttu). 
+
+Please note that this is an on-site course. No virtual online platform will be provided for remote participation. 
+Additionally, participants are responsible for arranging their own accommodations as the course office will not facilitate hotel arrangements.
 
 ##Instructors and speakers
 ###**Scientific Organising Committee**
@@ -94,9 +100,41 @@ At the end of the course, participants will be able to:
 
 
 
-##How to Apply
-Please download and fill out the [Registration Form](img/JapanPRS2024_AppForm.docx){:JapanPRS2024_AppForm}, and then email it to PRSworkshop2024@gmail.com. Note that registration fee is non-refundable.  
-If you have any questions or any problems with the application process, please [contact us](PRSworkshop2024@gmail.com).
+##**Registration and Fees**
+
+###**How to apply**
+
+Registration for the course is now open. Please download and fill out the [Registration Form](img/JapanPRS2024_AppForm.docx){:JapanPRS2024_AppForm}, and then email it to PRSworkshop2024@gmail.com. 
+
+Once received, the course office will provide you with the payment details for bank transfer. Please allow several days to one week for the course office to confirm the payment. Your registration will be confirmed upon successful bank transfer, and the course office will notify you promptly. 
+
+If you have any questions or any issues with the application process, please [contact us](mailto:PRSworkshop2024@gmail.com).
+
+
+
+<small><strong>Note:</strong></small>
+<small>
+Any bank transfer fees incurred must be covered by the participant.
+Registration fee is non-refundable.
+</small>
+
+
+###**Fees**
+
+|     | <span style="font-size:larger;">Rate</span>                           |
+| :---------- | :----------------------------------- |
+|  <span style="font-size:larger;">Undergraduate Student/ Clinical Resident</span>      | JPN 5,000  |
+| <span style="font-size:larger;">Graduate Student</span>      | JPN 10,000|
+| <span style="font-size:larger;">Postdoc/ Faculty/ Clinician/ Others</span>      | JPN 20,000|
+
+
+
+
+
+###**Deadline**
+
+The registration deadline is **July 31st, 2024**. As space at the venue is limited, registration will be closed once capacity is reached.
+
 
 <br />
 <br />
