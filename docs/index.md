@@ -42,7 +42,7 @@ At the end of the course, participants will be able to:
 
 
 ##Instructors and speakers
-###**Scientific Organsing Committee**
+###**Scientific Organizing Committee**
 <div class="grid cards" markdown>
 - <figure markdown>![Yuki](img/Yuki2.JPG){width=60%}</figure>
     <center> [Yukinori Okada](https://www.u-tokyo.ac.jp/focus/en/people/k0001_00120.html) </center>
@@ -95,7 +95,7 @@ At the end of the course, participants will be able to:
 
 
 ##How to Apply
-Please download, fill out the [Registration Form](img/JapanPRS2024_AppForm.docx){:JapanPRS2024_AppForm}, and email it to xxx@gmail.com. 
+Please download, and fill out the [Registration Form](img/JapanPRS2024_AppForm.docx){:JapanPRS2024_AppForm}, and then email it to xxx@gmail.com. 
 If you have any questions or any problems with the application process, please [contact us](xxx@gmail.com).
 
 <br />
