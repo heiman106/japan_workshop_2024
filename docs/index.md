@@ -116,6 +116,7 @@ Once received, the course office will provide you with the payment details for b
 **Note:**  Registration fee is ***non-refundable***.
 
 
+
 <small>
 *Any bank transfer fees incurred must be covered by the participant.
 </small>
