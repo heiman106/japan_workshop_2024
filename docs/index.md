@@ -110,7 +110,7 @@ The course will take place at [FUKUTAKE Learning Theater](https://fukutake.iii.u
 
 ###**How to apply**
 
-Registration for the course is now open. Please download and fill out the [Registration Form](img/JapanPRS2024_AppForm_v2.docx){:JapanPRS2024_AppForm}, and then email it to PRSworkshop2024@gmail.com. 
+Registration for the course is now open. Please download and fill out the [Registration Form](img/JapanPRS2024_AppForm_v2.docx){:JapanPRS2024_AppForm}, and then email it to prsworkshop2024@gmail.com. 
 
 Once received, the course office will provide you with the payment details for bank transfer*. Please allow several days to one week for the course office to confirm the payment. Your registration will be confirmed upon successful bank transfer, and the course office will notify you promptly. 
 
