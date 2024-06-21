@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
 
 # **Polygenic Risk Score Workshop - Japan**
 <figure markdown>![dna](img/globe_uni5.png){width=70%}</figure>
