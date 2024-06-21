@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # **Polygenic Risk Score Workshop - Japan**
 <figure markdown>![dna](img/globe_uni5.png){width=70%}</figure>
 **2-Day Summer PRS Workshop: 31 August - 1 September 2024**
