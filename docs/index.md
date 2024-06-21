@@ -141,7 +141,7 @@ The registration deadline is **July 31, 2024**. As space at the venue is limited
 
 ###**Contact**
 
-For any questions or issues about the course, please email us PRSworkshop2024@gmail.com. 
+For any questions or issues about the course, please email us prsworkshop2024@gmail.com. 
 
 
 <br />
